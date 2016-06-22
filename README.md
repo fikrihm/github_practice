@@ -2,11 +2,15 @@
 
 A repository with which to practice using git.
 
-### Fikri Malek
+### What is your name?
 
-> Answer goes here
+> Fikri Malek
 
 
 ### What is your favorite color?
 
 > RED
+
+### What is your favorite ice cream?
+
+> Cookie dough
